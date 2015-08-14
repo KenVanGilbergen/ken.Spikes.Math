@@ -18,5 +18,5 @@ f(5) =  ???
 
 **Answer to Fibonacci question.**
 
-![alt tag](https://raw.github.com/KenVanGilbergen/ken.Spikes.Math/master/ken.Spikes.Fibonacci/fibonacci-spiral.jpg)
+![alt tag](https://raw.github.com/KenVanGilbergen/ken.Spikes.Math/master/ken.Spikes.QuestionFibonacci/fibonacci-spiral.jpg)
 
