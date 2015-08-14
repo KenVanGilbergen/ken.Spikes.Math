@@ -1,0 +1,6 @@
+*.cache
+*.user
+*.suo
+obj
+bin
+packages

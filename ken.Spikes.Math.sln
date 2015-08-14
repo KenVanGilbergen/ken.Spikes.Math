@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.Math", "ken.Spikes.Math\ken.Spikes.Math.csproj", "{5553022E-5EC6-4D05-BCDA-7C90DD56C7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.QuestionBillboard", "ken.Spikes.QuestionBillboard\ken.Spikes.QuestionBillboard.csproj", "{85C0AF46-0F07-4A68-BE23-A08F384A1CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5553022E-5EC6-4D05-BCDA-7C90DD56C7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5553022E-5EC6-4D05-BCDA-7C90DD56C7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5553022E-5EC6-4D05-BCDA-7C90DD56C7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5553022E-5EC6-4D05-BCDA-7C90DD56C7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C0AF46-0F07-4A68-BE23-A08F384A1CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C0AF46-0F07-4A68-BE23-A08F384A1CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C0AF46-0F07-4A68-BE23-A08F384A1CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C0AF46-0F07-4A68-BE23-A08F384A1CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
