@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.QuestionBillboar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.QuestionFibonnaci", "ken.Spikes.QuestionFibonnaci\ken.Spikes.QuestionFibonnaci.csproj", "{1572E000-359C-4427-B283-E4FC3FD3327D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.QuestionMontyHall", "ken.Spikes.QuestionMontyHall\ken.Spikes.QuestionMontyHall.csproj", "{B67E33EB-2302-483D-A7C5-48EBA58984BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1572E000-359C-4427-B283-E4FC3FD3327D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1572E000-359C-4427-B283-E4FC3FD3327D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1572E000-359C-4427-B283-E4FC3FD3327D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67E33EB-2302-483D-A7C5-48EBA58984BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67E33EB-2302-483D-A7C5-48EBA58984BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67E33EB-2302-483D-A7C5-48EBA58984BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67E33EB-2302-483D-A7C5-48EBA58984BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,11 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ken.Spikes.QuestionFibonnaci
+namespace ken.Spikes.QuestionFibonacci
 {
+    /// <summary>
+    /// In how many ways can you reach the top of a staircase when taking one or to steps at a time?
+    /// Eg. 
+    /// stair with one step 1 way
+    /// stair with two steps 2 ways
+    /// stair with three steps 3 ways
+    /// stair with four steps 5 ways
+    /// ...
+    /// </summary>
     internal class Program
     {
         private const int Max = 15;
